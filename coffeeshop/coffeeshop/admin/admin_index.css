@@ -1,0 +1,85 @@
+body {
+        background-image: url("images/index1.jpg");
+       }
+.container{
+    width: 100%;
+}
+.menu-sec {
+    width: 50%;
+  }
+  ul.ul-menu {
+    display: flex;
+    list-style-type: none;
+    margin-left: 50%;
+  }
+  .ul-menu li {
+    margin-right: 275%;
+    font-size: 22px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: 2px;
+   
+  }
+  .navlink {
+    color: coral;
+  }
+  a {
+    text-decoration: none;
+  }
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 60px;
+    margin: 3%;
+    font-weight: bold;
+    color:pink;
+}
+
+p.user-name {
+    font-size: 30px;
+    font-family: sans-serif;
+    color:#F08080;
+    text-align: left;
+    margin-left: 2%;
+    margin-top: 0%;
+}
+input.inp-uname {
+    margin-left: 0 30%;
+    width: 20%;
+    font-size: 20px;
+    padding: 5px;
+    margin-bottom: 1%;
+    
+}
+p.user-psed {
+    font-size: 30px;
+    font-family: sans-serif;
+    color:#F08080;
+    text-align: left;
+    margin-left: 2%;
+    margin-top: 0%;
+}
+input.inp-pswd {
+    margin-left: 0 30%;
+    width: 20%;
+    font-size: 20px;
+    padding: 5px;
+    margin-bottom: 1%;
+}
+input.btn-submit {
+    width: 10%;
+    padding: 12px ;
+    font-size: 20px;
+    font-weight: bold;
+    background: #846306;
+    color: white;  
+}
+
+p.signUp {
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: left;
+    font-weight: bold;
+    color: coral;
+  }
